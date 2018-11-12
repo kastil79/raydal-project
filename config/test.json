@@ -1,0 +1,4 @@
+{
+    "mode": "TEST",
+    "URI_DBLOCAL":  "postgresql://raydaltest:test1234@127.0.0.1:5432/dbtest-raydal"
+}
