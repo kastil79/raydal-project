@@ -15,16 +15,4 @@ pool.connect( (err) => {
     console.log(`Connected to Postgresql DB in mode ${config.get('mode')}`);    
 });
 
-/*const getProducts = (req,res) => {
-    pool.query('SELECT * from tbproducts', (error,results) =>{
-        if(error) throw error;
-        console.log(results.rows);
-        
-    })
-}
-
-getProducts();*/
-
-
-
 module.exports = pool;
