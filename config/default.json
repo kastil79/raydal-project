@@ -1,4 +1,4 @@
 {
-    "mode": "DEV",
-    "URI_DBLOCAL":  "postgresql://raydaldev:dev1234@127.0.0.1:5432/dbdev-raydal"
+    "mode": "NO-LOCAL",
+    "URI_DBLOCAL":  ""
 }
